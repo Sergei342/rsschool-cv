@@ -12,7 +12,7 @@ I have a bachelor's degree in Applied Linguistics. There I got acquainted with p
 * JavaScript
 * Photoshop
 ## Code example
-Your task is to write a function maskify, which changes all but the last four characters into '#'.
+Your task is to write a function maskify, which changes all but the last four character into '#'.
 ```const cardnumber = '1234567812345678';
 
 const getHiddenCard = (card, number = 4) => {
