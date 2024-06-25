@@ -42,4 +42,4 @@ I have mastered the frontend development base and I want to explore further.
 * English B2
 * Russin Native
 * German B1
-* French A1
+* French A2
