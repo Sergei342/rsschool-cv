@@ -2,10 +2,10 @@
 ## Junior Frontend developer
 
 ## Contact Information:
-* Phone:
-* Email:
-* Telegram:
-* Github:
+* Phone: 89819620681
+* Email: dukmas08@gmail.com
+* Telegram: Serges55
+* Github: Sergei342
 
 # About me
 I started studying programming at university with python. 
