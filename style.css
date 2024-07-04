@@ -1,17 +1,35 @@
-.header__container { 
-  width: 1280px;
+html { 
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 200;
+  font-style: normal;
 }
-
-.container { 
-  position: relative;
-background-color: blanchedalmond;
+h1, h2 { 
+  font-weight: normal;
 }
-
-
+  .container { 
+  margin: 0;
+  padding: 0;
+}
+.navigation { 
+  margin: 0;
+display: flex;
+justify-content: space-between;
+flex-direction: row;
+}
 
 .menu { 
+  list-style: none;
   display: flex;
-  justify-content: space-around;
-
+  flex-direction: row;
+  gap: 20px
+  ;
 }
 
+.logo { 
+  margin: 18px;
+  padding: 0;
+}
+
+.hello { 
+text-align: center;
+}
