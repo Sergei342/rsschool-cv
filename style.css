@@ -2,6 +2,7 @@ html {
   font-family: "IBM Plex Mono", monospace;
   font-weight: 200;
   font-style: normal;
+ 
 }
 h1, h2 { 
   font-weight: normal;
@@ -17,6 +18,10 @@ justify-content: space-between;
 flex-direction: row;
 }
 
+.img { 
+  margin: 0 auto;
+  border-radius: 50%;
+}
 .menu { 
   list-style: none;
   display: flex;
@@ -33,3 +38,27 @@ flex-direction: row;
 .hello { 
 text-align: center;
 }
+
+
+.contacts-link { 
+  margin: 0;
+  padding: 0;
+  display: flex; 
+  justify-content: space-between;
+  list-style: none;
+}
+.link__github { 
+
+  padding: 15px;
+}
+
+a {
+  text-decoration:none;
+}
+
+.link_nav:hover { 
+  text-decoration:none;
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
