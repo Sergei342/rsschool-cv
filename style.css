@@ -1,0 +1,64 @@
+html { 
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 200;
+  font-style: normal;
+ 
+}
+h1, h2 { 
+  font-weight: normal;
+}
+  .container { 
+  margin: 0;
+  padding: 0;
+}
+.navigation { 
+  margin: 0;
+display: flex;
+justify-content: space-between;
+flex-direction: row;
+}
+
+.img { 
+  margin: 0 auto;
+  border-radius: 50%;
+}
+.menu { 
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  gap: 20px
+  ;
+}
+
+.logo { 
+  margin: 18px;
+  padding: 0;
+}
+
+.hello { 
+text-align: center;
+}
+
+
+.contacts-link { 
+  margin: 0;
+  padding: 0;
+  display: flex; 
+  justify-content: space-between;
+  list-style: none;
+}
+.link__github { 
+
+  padding: 10px;
+}
+
+a {
+  text-decoration:none;
+}
+
+.link_nav:hover { 
+  text-decoration:none;
+    text-decoration: underline;
+    transition: 0.3s;
+}
+
